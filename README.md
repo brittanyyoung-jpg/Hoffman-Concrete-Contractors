@@ -1,4 +1,4 @@
-# Hoffman Concrete Contractors Redirect Page
+# Hoffman Concrete Contractors Birdsboro, PA Office
 
 This is a simple redirect page for Hoffman Concrete Contractors.
 It shows the Google Maps location for a few seconds, then redirects to the live Google Business Profile.
